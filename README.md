@@ -1,2 +1,3 @@
 # Linear Regression Wine Project
-Using ridge regression, lasso regression, and elastic net to model wine quality. Results are plotted and summarized using ipython
+
+Pdf is a much readable version of the code and results, since error messages are ommitted. Running the ipython file on jupyter notebook with the provided  javascript code will also ommit error messages.
